@@ -1,0 +1,36 @@
+body {
+    background-color: bisque;
+}
+
+.fa {
+    color: blue;
+
+}
+
+.inst {
+    color: skyblue;
+
+}
+
+.smallbox {
+    background-color: white;
+    padding: 60px 10px;
+    text-align: center;
+    margin: 20px 10px;
+}
+
+a {
+    border-bottom: 1px solid blue;
+}
+
+span {
+    font-size: 15px;
+}
+
+.box {
+    padding: 60px;
+}
+
+.content {
+    margin: 20px 0px;
+}
